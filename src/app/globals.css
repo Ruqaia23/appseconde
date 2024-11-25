@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.main-div{
+  background: rgb(228, 227, 211);
+  height: 100vh;
+}
